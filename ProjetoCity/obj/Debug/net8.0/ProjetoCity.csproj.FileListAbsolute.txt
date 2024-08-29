@@ -1,0 +1,152 @@
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\appsettings.Development.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\appsettings.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.staticwebassets.runtime.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.exe
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.deps.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.runtimeconfig.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.pdb
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\Google.Protobuf.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\MySql.Data.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ZstdSharp.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.csproj.AssemblyReference.cache
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.GeneratedMSBuildEditorConfig.editorconfig
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.AssemblyInfoInputs.cache
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.AssemblyInfo.cs
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.csproj.CoreCompileInputs.cache
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.MvcApplicationPartsAssemblyInfo.cache
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.RazorAssemblyInfo.cache
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.RazorAssemblyInfo.cs
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.build.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.development.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoCity.Microsoft.AspNetCore.StaticWebAssets.props
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoCity.props
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoCity.props
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoCity.props
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.pack.json
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\bundle\ProjetoCity.styles.css
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoCity.bundle.scp.css
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoC.DE604AFE.Up2Date
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\refint\ProjetoCity.dll
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.pdb
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.genruntimeconfig.cache
+F:\3A-DS-ETIM\Renan Clayton\projectcity\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ref\ProjetoCity.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\appsettings.Development.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\appsettings.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.staticwebassets.runtime.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.exe
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.deps.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.runtimeconfig.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.pdb
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\Google.Protobuf.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\MySql.Data.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Text.Json.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ZstdSharp.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.csproj.AssemblyReference.cache
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.GeneratedMSBuildEditorConfig.editorconfig
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.AssemblyInfoInputs.cache
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.AssemblyInfo.cs
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.csproj.CoreCompileInputs.cache
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.MvcApplicationPartsAssemblyInfo.cache
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.RazorAssemblyInfo.cache
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.RazorAssemblyInfo.cs
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.build.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.development.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoCity.Microsoft.AspNetCore.StaticWebAssets.props
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoCity.props
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoCity.props
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoCity.props
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.pack.json
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\bundle\ProjetoCity.styles.css
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoCity.bundle.scp.css
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.csproj.CopyComplete
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\refint\ProjetoCity.dll
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.pdb
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.genruntimeconfig.cache
+F:\3A-DS-ETIM\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ref\ProjetoCity.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\appsettings.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.staticwebassets.runtime.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.exe
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.deps.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.runtimeconfig.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ProjetoCity.pdb
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.csproj.AssemblyReference.cache
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.AssemblyInfoInputs.cache
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.AssemblyInfo.cs
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.csproj.CoreCompileInputs.cache
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.RazorAssemblyInfo.cache
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.RazorAssemblyInfo.cs
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoCity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoCity.props
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoCity.props
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoCity.props
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\bundle\ProjetoCity.styles.css
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoCity.bundle.scp.css
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoC.DE604AFE.Up2Date
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\refint\ProjetoCity.dll
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.pdb
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ProjetoCity.genruntimeconfig.cache
+C:\Users\3ds\Desktop\ProjetoCity\ProjetoCity\obj\Debug\net8.0\ref\ProjetoCity.dll

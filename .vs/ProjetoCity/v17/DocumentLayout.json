@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\3ds\\desktop\\projetocity\\projetocity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\3ds\\desktop\\projetocity\\projetocity\\views\\home\\cadastrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\home\\cadastrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\3ds\\desktop\\projetocity\\projetocity\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\3ds\\desktop\\projetocity\\projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Views\\Home\\CadastrarCliente.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Home\\CadastrarCliente.cshtml",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Views\\Home\\CadastrarCliente.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Home\\CadastrarCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:15:23.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoCity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoCity\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwD0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:14:37.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:11:51.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PainelCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoCity\\ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:09:13.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
