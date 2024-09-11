@@ -71,5 +71,68 @@ public class ClienteRepository : IClienteRepository
         }
 
     }
-        
+    
+    //Listar todos os clientes
+
+    public IEnumerable<Cliente> TodosClientes()
+    {
+            List<Cliente> Clientlist = new List<Cliente>();
+
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("SELECT * from tb_Cliente", conexao);
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+
+                conexao.Close();
+
+                foreach (DataRow dr in dt.Rows)
+                {
+                    Clientlist.Add(
+                            new Cliente
+                            {
+                                Nome = ((string)dr["nome"]),
+                                Telefone = ((string)dr["telefone"]),
+                                Email = ((string)dr["email"]),
+
+                            });
+                }
+                return Clientlist;
+
+            }
+    }
+    //buscar todos os clientes por id
+    public Cliente ObterCliente(int Id)
+    {
+        using (var conexao = new MySqlConnection(_conexaoMySQL))
+        {
+            conexao.Open();
+            MySqlCommand cmd = new("SELECT * from tb_Cliente ", conexao);
+            cmd.Parameters.AddWithValue("@codigo", Id);
+
+            MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+            MySqlDataReader dr;
+
+            Cliente cliente = new Cliente();
+            // retorna conjunto de resultado ,  é funcionalmente equivalente a chamar ExecuteReader().
+            dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
+            while (dr.Read())
+            {
+                cliente.Codigo = Convert.ToInt32(dr["codigo"]);
+                cliente.Nome = (string)(dr["nome"]);
+                cliente.Telefone = (string)(dr["telefone"]);
+                cliente.Email = (string)(dr["email"]);
+
+            }
+            return cliente;
+        }
+    }
+
+
+
+
+
 }

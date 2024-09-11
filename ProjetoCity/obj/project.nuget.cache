@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2YZG/IUyLEY=",
+  "dgSpecHash": "nM3fATQ3wKRqhGJ0AJefn8yo5cG3l9P6DMKQdWDAnFk6BeIqHZhA71FuXwFmAMsObROLrtvSIE2xuHTPDjunwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3ds\\Desktop\\DevReads\\ProjetoCity\\ProjetoCity.csproj",
+  "projectFilePath": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\ProjetoCity\\ProjetoCity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3ds\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\3ds\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

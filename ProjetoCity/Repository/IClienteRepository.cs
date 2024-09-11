@@ -12,5 +12,8 @@ public interface IClienteRepository //Cardápio - Menu
     //CadastrarCliente
     void Cadastrar(Cliente cliente);
 
+    //Buscar Todos os clientes
+    IEnumerable<Cliente> TodosClientes(); //IEnumerable signfica que passará um Array
+
 
 }

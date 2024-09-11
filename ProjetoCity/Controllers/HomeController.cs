@@ -56,7 +56,8 @@ namespace ProjetoCity.Controllers
         }
         public IActionResult PainelCliente() 
         {
-            return View();
+           //Retorna na página a lista de todos os clientes, sabendo o que ele vai fazer.
+            return View(_clienteRepositorio.TodosClientes());
         }
 
         public IActionResult CadastrarCliente() { 
@@ -77,6 +78,7 @@ namespace ProjetoCity.Controllers
             return RedirectToAction(nameof(PainelCliente));
         }
         //Página CadastroCliente que envia os dados (Post)
+        //E
 
 
 

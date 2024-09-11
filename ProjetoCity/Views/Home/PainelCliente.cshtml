@@ -1,10 +1,53 @@
-﻿@{
+﻿@model IEnumerable<ProjetoCity.Models.Cliente>
+
+@{
     ViewData["Title"] = "Index";
 }
 
-<h1>Painel do Cliente</h1>
+
 <p>
-
     <a asp-controller="Home" asp-action="CadastrarCliente">Cadastra Cliente</a>
-
 </p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>Ação</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codigo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarCliente", new { id = item.Codigo }) |
+                    @Html.ActionLink("Excluir", "ExcluirCliente", new { id = item.Codigo },
+                             new { onclick = "return confirm('Deseja realmente Excluir este item?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>  		
