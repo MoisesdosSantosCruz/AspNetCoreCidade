@@ -3,8 +3,9 @@
     "",
     "\\ProjetoCity",
     "\\ProjetoCity\\Views",
+    "\\ProjetoCity\\Views\\Home",
     "\\ProjetoCity\\Views\\Shared"
   ],
-  "SelectedNode": "\\ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\ProjetoCity.sln",
   "PreviewInSolutionExplorer": false
 }

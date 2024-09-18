@@ -81,7 +81,48 @@ namespace ProjetoCity.Controllers
         //E
 
 
+        //editar
 
+        public IActionResult EditarCliente(Cliente cliente)
+        {
+
+            // Carrega a lista de Cliente
+            var listaCliente = _clienteRepositorio.TodosClientes();
+
+            //metodo que atualiza cliente
+            _clienteRepositorio.Atualizar(cliente);
+            //redireciona para a pagina home
+
+            return RedirectToAction(nameof(PainelCliente));
+
+        }
+
+        [HttpPost]
+        public IActionResult EditarCliente(int id)
+        {
+            // Carrega a liista de Cliente
+            var listaCliente = _clienteRepositorio.TodosClientes();
+            var ObjCliente = new Cliente
+            {
+                //metodo que lista cliente
+                ListaCliente = (List<Cliente>)listaCliente
+
+            };
+
+            //Retorna o cliente pegando o id
+            return View(_clienteRepositorio.ObterCliente(id));
+        }
+
+        // Exucluir 
+
+        // Página Exclui cliente
+        public IActionResult ExcluirCliente(int id)
+        {
+            //metodo que exclui cliente
+            _clienteRepositorio.Excluir(id);
+            //redireciona para a pagina home
+            return RedirectToAction(nameof(PainelCliente));
+        }
 
 
 
@@ -91,5 +132,11 @@ namespace ProjetoCity.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        
+
+
+
+
     }
 }

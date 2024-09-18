@@ -1,6 +1,7 @@
 ﻿using ProjetoCity.Models;
 using System.Data;
 using MySql.Data.MySqlClient;
+using Microsoft.AspNetCore.Mvc;
 namespace ProjetoCity.Repository;
 
 // Chamar a interface com herança
@@ -129,7 +130,40 @@ public class ClienteRepository : IClienteRepository
             }
             return cliente;
         }
+
     }
+    //Alterar Cliente
+    public void Atualizar(Cliente cliente)
+    {
+        using (var conexao = new MySqlConnection(_conexaoMySQL))
+        {
+            conexao.Open();
+            MySqlCommand cmd = new MySqlCommand("Update tb_Cliente set nome=@nome, telefone=@telefone, email=@email " +
+                                                " where Codigo=@codigo ", conexao);
+
+            cmd.Parameters.Add("@codigo", MySqlDbType.VarChar).Value = cliente.Codigo;
+            cmd.Parameters.Add("@nome", MySqlDbType.VarChar).Value = cliente.Nome;
+            cmd.Parameters.Add("@telefone", MySqlDbType.VarChar).Value = cliente.Telefone;
+            cmd.Parameters.Add("@email", MySqlDbType.VarChar).Value = cliente.Email;
+
+            cmd.ExecuteNonQuery();
+            conexao.Close();
+        }
+    }      //excluir
+    public void Excluir(int Id)
+    {
+        using (var conexao = new MySqlConnection(_conexaoMySQL))
+        {
+            conexao.Open();
+            MySqlCommand cmd = new MySqlCommand("delete from tb_Cliente where Codigo=@codigo", conexao);
+            cmd.Parameters.AddWithValue("@codigo", Id);
+            int i = cmd.ExecuteNonQuery();
+            conexao.Close();
+        }
+    }
+
+
+
 
 
 

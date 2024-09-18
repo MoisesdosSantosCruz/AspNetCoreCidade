@@ -9,7 +9,7 @@ Telefone varchar(20) not null,
 Email varchar(40) not null,
 Senha varchar(20) 
 );
-
+desbribe tbCliente;
 select * from tb_cliente;
 
 /*create procedure sgInsertCliente(vCod int, vNome varchar(40), vTelefone varchar(20), vEmail varchar(40), vSenha varchar(20))

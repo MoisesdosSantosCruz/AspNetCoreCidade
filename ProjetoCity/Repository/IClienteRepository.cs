@@ -15,5 +15,14 @@ public interface IClienteRepository //Cardápio - Menu
     //Buscar Todos os clientes
     IEnumerable<Cliente> TodosClientes(); //IEnumerable signfica que passará um Array
 
+    //Busca todos por id
+    Cliente ObterCliente(int id);
+
+    //Atualizar Cliente
+    void Atualizar(Cliente cliente);// Haverá atualização futuras
+
+    void Excluir(int id); // Excluir
+
+
 
 }
