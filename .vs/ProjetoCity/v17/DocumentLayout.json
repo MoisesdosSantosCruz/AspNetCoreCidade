@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\3ds\\desktop\\projeto3ds\\projetocity\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\3ds\\desktop\\projeto3ds\\projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\3ds\\desktop\\projeto3ds\\projetocity\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\idoss\\OneDrive\\\u00C1rea de Trabalho\\ProjetoCity\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,46 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\ProjetoCity\\Repository\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "ProjetoCity\\Repository\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\ProjetoCity\\Repository\\ClienteRepository.cs",
-              "RelativeToolTip": "ProjetoCity\\Repository\\ClienteRepository.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAcwJ0AAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:41:59.209Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\ProjetoCity\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProjetoCity\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\ProjetoCity\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProjetoCity\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:41:47.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PainelCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
-              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Projeto3DS\\ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
-              "RelativeToolTip": "ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T11:41:41.777Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

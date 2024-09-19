@@ -43,8 +43,8 @@
                     @Html.DisplayFor(modelItem => item.Email)
                 </td>
                 <td>
-                    @Html.ActionLink("Editar", "EditarCliente", new { id = item.Codigo }) |
-                    @Html.ActionLink("Excluir", "ExcluirCliente", new { id = item.Codigo },
+                    @Html.ActionLink("Editar", "EditarCliente", new { Id = item.Codigo }) |
+                    @Html.ActionLink("Excluir", "ExcluirCliente", new { Id = item.Codigo },
                              new { onclick = "return confirm('Deseja realmente Excluir este item?');" })
                 </td>
             </tr>

@@ -1,11 +1,16 @@
 using ProjetoCity.Libraries.Login;
 using ProjetoCity.Repository;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 //Adicionado para manipular a Sessão
 builder.Services.AddHttpContextAccessor();
+
 //Adicionar a Interface como um serviço 
 // Adicionar serviços 
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
