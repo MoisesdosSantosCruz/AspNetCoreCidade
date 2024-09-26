@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\idoss\\OneDrive\\\u00C1rea de Trabalho\\ProjetoCity\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\idoss\\OneDrive\\\u00C1rea de Trabalho\\ProjetoCidade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|c:\\users\\idoss\\onedrive\\\u00E1rea de trabalho\\projetocidade\\projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\idoss\\OneDrive\\\u00C1rea de Trabalho\\ProjetoCidade\\ProjetoCity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoCity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\idoss\\OneDrive\\\u00C1rea de Trabalho\\ProjetoCidade\\ProjetoCity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoCity\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:59:13.342Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"

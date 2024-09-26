@@ -1657,11 +1657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\idoss\\OneDrive\\Área de Trabalho\\ProjetoCity\\ProjetoCity\\ProjetoCity.csproj",
+      "projectUniqueName": "C:\\Users\\idoss\\OneDrive\\Área de Trabalho\\ProjetoCidade\\ProjetoCity\\ProjetoCity.csproj",
       "projectName": "ProjetoCity",
-      "projectPath": "C:\\Users\\idoss\\OneDrive\\Área de Trabalho\\ProjetoCity\\ProjetoCity\\ProjetoCity.csproj",
+      "projectPath": "C:\\Users\\idoss\\OneDrive\\Área de Trabalho\\ProjetoCidade\\ProjetoCity\\ProjetoCity.csproj",
       "packagesPath": "C:\\Users\\idoss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\idoss\\OneDrive\\Área de Trabalho\\ProjetoCity\\ProjetoCity\\obj\\",
+      "outputPath": "C:\\Users\\idoss\\OneDrive\\Área de Trabalho\\ProjetoCidade\\ProjetoCity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

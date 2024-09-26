@@ -1,6 +1,6 @@
 create database BDevReads;
 Use BDevReads;
-drop database BDevReads;
+-- drop database BDevReads;
 
 create table cliente(
 codigo int primary key auto_increment,
